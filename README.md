@@ -1,4 +1,6 @@
-# Lebenslauf - Christinae Christens
+# Lebenslauf - Christina Christens
+
+![Lebenslauf Bild](Christina.webp)
 
 Name: Christina Christens
 Geschlecht: weiblich
